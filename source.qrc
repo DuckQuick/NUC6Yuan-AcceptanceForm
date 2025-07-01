@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SourceForm.xlsx</file>
+        <file>cantaloupe.ico</file>
+    </qresource>
+</RCC>
